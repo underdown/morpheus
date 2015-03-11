@@ -14,16 +14,16 @@ module.exports = {
   postPerPage: 3, // number of posts per page
   siteUrl: 'http://localhost:3000', // the url of your website
   useSSL: false, // if true it redirects all incoming requests to the https url
-  siteTitle: 'Morpheus',
+  siteTitle: 'ryan underdown',
   theme: 'blablabla', // currently used theme
-  siteDescription: '- say hi to the next generation web publishing platform -',
+  siteDescription: '<a href=\'//twitter.com/underdown\'>@underdown</a>',
   port: 3000,
   ip: '127.0.0.1',
   authors: {
-    'youreamail@yourwebsite.something': {
+    'ryanunderdown@gmail.com': {
       meta: 'I really like to write :)'
     }
   },
-  googleAnalytics : 'UA-XXXXX', //your google analytics tracking code
-  disqusComments : '' //your disqus shortname
+  googleAnalytics : 'UA-583901-1', //your google analytics tracking code
+  disqusComments : 'underdown' //your disqus shortname
 };
